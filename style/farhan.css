@@ -112,3 +112,18 @@ main{
 .resume-conteiner{
     display: flex;
 }
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 130px 230px;
+    gap: 20px;
+    
+}
+footer input[type="text"]{
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    
+    display: block;
+    width: 190%;
+}
